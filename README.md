@@ -39,7 +39,7 @@ Megaphone is a Fully Customizable Discord Bot Coded in Javascript
  
 ## Contributing  
  - **You need to have atleast 10 Contributions to get the Contributor Role**  
- - **Fork and Clone the Respository**  
+ - **Fork and Clone the Repository**  
  - **Code like you've never coded before**  
  - **Message Me on Discord about your Contribution and i'll check**
  

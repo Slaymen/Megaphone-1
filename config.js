@@ -1,8 +1,6 @@
 const config = {
     prefix: '?',
 
-    token: "BOT_TOKEN",
-
     ownerID: ['134812399994667009'],
 
     permlevels: [

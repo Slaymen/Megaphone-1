@@ -1,9 +1,9 @@
 const config = {
     prefix: '?',
 
-    token: "BOT TOKEN",
+    token: "BOT_TOKEN",
 
-    ownerID: ['Your ID'],
+    ownerID: ['134812399994667009'],
 
     permlevels: [
         {

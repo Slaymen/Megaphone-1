@@ -71,4 +71,4 @@ fs.readdir('./src/events', (err, files) => {
 	});
 });
 
-client.login(client.config.token);
+client.login(BOT_TOKEN);
